@@ -2,6 +2,7 @@
 
 
 DataSet Link: https://www.kaggle.com/datasets/mateohervas/dcsass-dataset
+
 GitHub Link: https://github.com/aman-chahar/Shoplifting_Detection.git
 
 I've worked on a theft detection system using Convolutional LSTM networks with TensorFlow and Keras. This project involves detecting instances of shoplifting from surveillance video clips.
